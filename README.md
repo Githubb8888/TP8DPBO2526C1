@@ -55,16 +55,6 @@ Dokumentasi/ contains the screenshots and the screen recording.
 6. The Model runs a prepared statement through PDO on the database and returns the rows as a PHP array to the Controller.
 7. For a page that is shown (index, create, edit), the Controller passes the data to the View. The View turns the array into HTML and sends it to the browser. The form pages of lecturers and courses also receive the list of departments or lecturers to fill the dropdown for the relation.
 8. For store, update and delete, the Controller calls the Model and then redirects back to the list page (Post/Redirect/Get), which prevents duplicate submissions when the page is refreshed.
-9. Clicking Edit opens ?action=edit&id=ID, the Controller loads the row with find, and the View fills the form with the existing data. Submitting the form sends the update action.
-
-| Action | Method | Flow |
-|---|---|---|
-| index (Read) | GET | Controller -> Model::all() -> View::index() |
-| create (form) | GET | Controller -> View::form(null) |
-| store (Create) | POST | Controller -> Model::create() -> redirect |
-| edit (form) | GET | Controller -> Model::find() -> View::form(row) |
-| update (Update) | POST | Controller -> Model::update() -> redirect |
-| delete (Delete) | POST | Controller -> Model::delete() -> redirect |
 
 All queries use prepared statements with placeholders through PDO, so user input is never concatenated into SQL. All output in the Views is escaped with htmlspecialchars. Deleting is done with a POST form and a confirmation dialog instead of a plain link.
 
