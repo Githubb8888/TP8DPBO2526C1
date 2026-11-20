@@ -1,4 +1,4 @@
-# TP8DPBO2526C1
+<img width="1470" height="956" alt="Screenshot 2026-11-20 at 15 54 47" src="https://github.com/user-attachments/assets/6741e753-95ae-4a08-941b-b1b7dfdc0210" /># TP8DPBO2526C1
 
 
 # Campus Data (PHP Native MVC)
@@ -72,28 +72,18 @@ Screen record - Screen Recording TP8.mp4
 
 Lecturers page:
 
-![Lecturers](Dokumentasi/01_lecturers_index.png)
-
-Create lecturer (with the department dropdown):
-
-![Create Lecturer](Dokumentasi/02_lecturers_create.png)
+![Lecturers](Dokumentasi/Lecturers.png)
 
 Departments page:
 
-![Departments](Dokumentasi/03_departments_index.png)
+![Departments](Dokumentasi/Departments.png)
 
-Create department:
-
-![Create Department](Dokumentasi/04_departments_create.png)
 
 Courses page:
 
-![Courses](Dokumentasi/05_courses_index.png)
+![Courses](Dokumentasi/Courses.png)
 
-Create course (with the lecturer dropdown):
+Screen Recording:
 
-![Create Course](Dokumentasi/06_courses_create.png)
+TP8DPBO2425C1/Screen Recording TP8.mp4 
 
-Edit course:
-
-![Edit Course](Dokumentasi/07_courses_edit.png)
