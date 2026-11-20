@@ -72,16 +72,16 @@ Screen record - Screen Recording TP8.mp4
 
 Lecturers page:
 
-![Lecturers](Dokumentasi/Lecturers.png)
+![Lecturers](TP8DPBO2425C1/Dokumentasi/Lecturers.png)
 
 Departments page:
 
-![Departments](Dokumentasi/Departments.png)
+![Departments](TP8DPBO2425C1/Dokumentasi/Departments.png)
 
 
 Courses page:
 
-![Courses](Dokumentasi/Courses.png)
+![Courses](TP8DPBO2425C1/Dokumentasi/Courses.png)
 
 
 
