@@ -1,4 +1,4 @@
-<img width="1470" height="956" alt="Screenshot 2026-11-20 at 15 54 47" src="https://github.com/user-attachments/assets/6741e753-95ae-4a08-941b-b1b7dfdc0210" /># TP8DPBO2526C1
+# TP8DPBO2526C1
 
 
 # Campus Data (PHP Native MVC)
@@ -67,7 +67,7 @@ All queries use prepared statements with placeholders through PDO, so user input
 
 ## Run Documentation
 
-A screen recording of the website running, where CRUD is tried on all tables, is in the Dokumentasi folder.
+A screen recording of the website running, where CRUD is tried on all tables, is in the folder.
 Screen record - Screen Recording TP8.mp4
 
 Lecturers page:
@@ -83,7 +83,5 @@ Courses page:
 
 ![Courses](Dokumentasi/Courses.png)
 
-Screen Recording:
 
-TP8DPBO2425C1/Screen Recording TP8.mp4 
 
